@@ -1,9 +1,3 @@
-/*
- * Julian Bencomo - Antonio Diaz
- * Homework 3
- * CS 3700
- */
-
 import java.net.*;
 import java.io.*;
 import java.text.DateFormat;
